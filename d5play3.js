@@ -1,5 +1,7 @@
+
+var superList = [];
 function newFunc(number) {
-  var superList = number;
+  var superListbuilt = superList.push(number)
     return superList;
 }
 
